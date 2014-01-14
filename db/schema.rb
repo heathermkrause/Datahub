@@ -20,7 +20,7 @@ ActiveRecord::Schema.define(:version => 20131213081918) do
     t.date     "date_of_report"
     t.text     "key_recommendations"
     t.string   "key_ages"
-    t.text     "notes_on_mythodology"
+    t.text     "notes_on_methodology"
     t.string   "target_population"
     t.string   "data_availablity"
     t.integer  "user_id"
